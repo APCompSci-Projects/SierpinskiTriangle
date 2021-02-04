@@ -12,9 +12,12 @@ body {
 }
 
 header {
-	
+	padding: 10px 10px 10px 10px;
 }
 
+body p{
+    padding: 10px 10px 10px 10px;
+}
 footer {
 	font-style: italic;
 	font-size: 90%;
